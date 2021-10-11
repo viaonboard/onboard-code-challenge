@@ -18,7 +18,7 @@ _Design:_
 
 ![mockup.png](./assets/mockup.png)
 
-> Note: Assets included in this repository in the `assets` folder.
+> Note: Assets are included in this repository in the `assets` folder.
 
 _JSON data example:_
 
