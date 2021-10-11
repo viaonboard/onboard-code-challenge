@@ -8,7 +8,7 @@ Showcase your ability to produce a basic prototype for a user profile page and/o
 
 **Deliverables:**
 
-- Publish your project via (Heroku)[https://heroku.com/], GitHub pages, or other platform with a publicly accessible URL to view the code challenge
+- Publish your project via (Heroku)[https://heroku.com/], GitHub pages, or other platform with a publicly accessible URL to view the completed challenge.
 - Share your source code on Github.
 - You may use any frameworks/databases/dependencies, etc. and feel free to add any other helpful or useful features to showcase your skills. Good luck!
 
