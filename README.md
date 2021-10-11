@@ -13,7 +13,7 @@ Showcase your ability to produce a basic prototype for a user profile page and/o
 
 - Create a user profile application that displays the following information:
 
-![mockup.png](.assets/mockup.png)
+![mockup.png](./assets/mockup.png)
 
 - JSON data example:
 
