@@ -1,6 +1,8 @@
 # Onboard Engineering Code Challenge
 
-**Goal:** Showcase your ability to produce a basic prototype for a user profile page. You can complete this exercise on your own, and it is not timed, but typically shouldn't take more than a few hours to complete.
+**Goal:**
+
+Showcase your ability to produce a basic prototype for a user profile page and/or API endpoint. Choose either Full Stack, Backend or Frontend based on the role you are applying for.
 
 **Deliverables:**
 
@@ -11,9 +13,9 @@
 
 - Create a user profile application that displays the following information:
 
-![Mobile_ CSM Profile.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfe36f22-1b15-4461-8382-24d60f7dc535/Mobile__CSM_Profile.png)
+![mockup.png](.assets/mockup.png)
 
-- JSON Data Format Example:
+- JSON data example:
 
 ```json
 {
