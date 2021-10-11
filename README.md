@@ -1,21 +1,26 @@
 # Onboard Engineering Code Challenge
 
+## Prototype Challenge
+
 **Goal:**
 
-Showcase your ability to produce a basic prototype for a user profile page and/or API endpoint. Choose either Full Stack, Backend or Frontend based on the role you are applying for.
+Showcase your ability to produce a basic prototype for a user profile page and/or API endpoint. Choose either Full Stack, Backend or Frontend section below based on the role you are applying for.
 
 **Deliverables:**
 
-- Publish your project via (Heroku)[https://heroku.com/], GitHub pages, or other platform with a publicly accessible URL to view the code challenge and share your source code on Github.
-- You may use any frameworks/databases/dependencies, etc. and feel free to add any other helpful or useful features to showcase your skills.
+- Publish your project via (Heroku)[https://heroku.com/], GitHub pages, or other platform with a publicly accessible URL to view the code challenge
+- Share your source code on Github.
+- You may use any frameworks/databases/dependencies, etc. and feel free to add any other helpful or useful features to showcase your skills. Good luck!
 
 **Prototype Details:**
 
-- Create a user profile application that displays the following information:
+_Design:_
 
 ![mockup.png](./assets/mockup.png)
 
-- JSON data example:
+> Note: Assets included in this repository in the `assets` folder.
+
+_JSON data example:_
 
 ```json
 {
@@ -36,8 +41,6 @@ Showcase your ability to produce a basic prototype for a user profile page and/o
   "created_at": "2020-10-01T19:40:40Z"
 }
 ```
-
-- Assets included in this repository in the `assets` folder.
 
 ## Full Stack
 
